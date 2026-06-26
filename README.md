@@ -1,119 +1,138 @@
 <div align="center">
 
-<!-- Animated header banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hadi%20Maler&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Developer%20%7C%20Builder%20%7C%20Lifelong%20Learner&descAlignY=55&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=2,4,12,30&height=220&section=header&text=HADI%20MALER&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=45&desc=⚡%20Code.%20Create.%20Conquer.%20⚡&descSize=18&descAlignY=68&stroke=7B68EE&strokeWidth=2" width="100%"/>
 
-<!-- Typing animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7B68EE&center=true&vCenter=true&width=600&lines=Python+Developer+in+progress+🐍;Web+Developer+in+progress+🌐;Always+learning%2C+always+building+🔨;The+mentor+of+your+mentors+⚡)](https://git.io/typing-svg)
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=800&color=A78BFA&background=00000000&center=true&vCenter=true&multiline=false&width=650&height=40&lines=🐍+Python+Developer+in+the+making...;🌐+Crafting+the+web+one+line+at+a+time...;⚡+The+mentor+of+your+mentors...;🚀+Always+building%2C+never+stopping...;🧠+Learning+%7C+Building+%7C+Leveling+Up)](https://git.io/typing-svg)
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700"/>
 
 </div>
 
+<br/>
+
 ---
 
-## 🌌 About Me
+<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="300"/>
 
-<img align="right" alt="Coding" width="320" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+### 👾 `> whoami`
 
-- 👋 Hey! I'm **Hadi**, an aspiring full-stack developer
-- 🌱 Currently mastering **Python** & **Web Development**
-- 🤝 Open to **collaborations**, cool projects & fresh ideas
-- ⚡ Fun fact: **I am the mentor of your mentors**
-- 📍 Pronouns: **He / Him**
-- 📫 Reach me at: **hadimaler710@gmail.com**
+```bash
+Name     : Hadi Maler
+Role     : Aspiring Full-Stack Developer
+Status   : 🟢 Currently Learning & Building
+Passion  : Turning ideas into real software
+Fun Fact : I am the mentor of your mentors ⚡
+Pronouns : He / Him
+Email    : hadimaler710@gmail.com
+```
+
+> *"I don't just write code — I craft digital experiences."*
 
 <br clear="right"/>
 
 ---
 
-## 🛠️ Tech Stack & Skills
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
+</div>
+
+## 🧰 Arsenal
 
 <div align="center">
 
-### 👨‍💻 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+### ⌨️ Languages I Speak
 
-### 🌐 Web & Frameworks
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,js,html,css,ts&theme=dark" />
+
+### 🏗️ Frameworks & Libraries
+
+<img src="https://skillicons.dev/icons?i=flask,bootstrap,nodejs,react,jquery&theme=dark" />
 
 ### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### ⚙️ Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb,postgres&theme=dark" />
 
-### 🧠 Currently Exploring
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+### ⚙️ Tools & Environment
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman,docker&theme=dark" />
+
+### 🔭 On My Radar
+
+<img src="https://skillicons.dev/icons?i=react,typescript,docker,kubernetes,aws&theme=dark" />
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hadimaler710&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hadimaler710&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hadimaler710&theme=tokyonight&hide_border=true" width="60%"/>
-</div>
-
----
-
-## 🚀 Current Mission
-
-```
-🎯  Master Python → Build real-world projects
-🌐  Level up in Full-Stack Web Development
-🧩  Contribute to Open Source
-🤝  Collaborate with awesome developers like YOU
-```
-
----
-
-## 📫 Let's Connect
+## 📡 Signal Stats
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hadimaler710@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hadimaler710)
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=hadimaler710&color=7B68EE&style=for-the-badge&label=PROFILE+VIEWS" />
+<img src="https://github-readme-stats.vercel.app/api?username=hadimaler710&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=7B68EE&text_color=ffffff&rank_icon=github" height="170"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hadimaler710&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=ffffff" height="170"/>
 
 <br/><br/>
 
-*⭐ Star my repos if you find them useful — it means the world!*
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hadimaler710&theme=radical&hide_border=true&background=0D1117&ring=A78BFA&fire=7B68EE&currStreakLabel=A78BFA" width="55%"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hadimaler710&theme=react-dark&hide_border=true&bg_color=0D1117&color=A78BFA&line=7B68EE&point=ffffff&area=true" width="95%"/>
+
+</div>
+
+---
+
+## 🎯 Current Quest
+
+<div align="center">
+
+| 🏆 Goal | 📊 Status |
+|---|---|
+| Master Python | 🟨🟨🟨🟨⬜ In Progress |
+| Full-Stack Web Dev | 🟨🟨🟨⬜⬜ Building |
+| Open Source Contributions | 🟨⬜⬜⬜⬜ Starting |
+| Build a SaaS Product | 🟥⬜⬜⬜⬜ Soon™ |
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Gmail-hadimaler710-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hadimaler710@gmail.com)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-hadimaler710-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hadimaler710)
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=hadimaler710&color=A78BFA&style=for-the-badge&label=👁️+PROFILE+VIEWS" />
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/hadimaler710/hadimaler710/output/github-contribution-grid-snake-dark.svg" alt="🐍 Snake eating my contributions" />
 
 <br/>
 
-<!-- Snake animation (requires GitHub Actions setup — see note below) -->
-<img src="https://raw.githubusercontent.com/hadimaler710/hadimaler710/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400"/>
 
 <br/>
 
-<!-- Animated footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=65" width="100%"/>
+### ✦ *Thanks for scrolling this far. You're already ahead of most.* ✦
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,4,12,30&height=140&section=footer&text=Keep+Building+🚀&fontSize=28&fontColor=fff&animation=twinkling&fontAlignY=65&stroke=7B68EE&strokeWidth=1" width="100%"/>
 
 </div>
