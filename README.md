@@ -12,23 +12,16 @@
 
 ## 🌌 About Me
 
-```python
-class Hadi:
-    def __init__(self):
-        self.name        = "Hadi Maler"
-        self.pronouns    = "He / Him"
-        self.role        = "Aspiring Full-Stack Developer"
-        self.learning    = ["Python", "Web Development", "Problem Solving"]
-        self.fun_fact    = "I am the mentor of your mentors ⚡"
-        self.open_to     = "Collaborations, projects & new ideas"
-        self.contact     = "hadimaler710@gmail.com"
+<img align="right" alt="Coding" width="320" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
-    def say_hi(self):
-        print("Thanks for stopping by! Let's build something great together 🚀")
+- 👋 Hey! I'm **Hadi**, an aspiring full-stack developer
+- 🌱 Currently mastering **Python** & **Web Development**
+- 🤝 Open to **collaborations**, cool projects & fresh ideas
+- ⚡ Fun fact: **I am the mentor of your mentors**
+- 📍 Pronouns: **He / Him**
+- 📫 Reach me at: **hadimaler710@gmail.com**
 
-me = Hadi()
-me.say_hi()
-```
+<br clear="right"/>
 
 ---
 
@@ -87,7 +80,7 @@ me.say_hi()
 
 ```
 🎯  Master Python → Build real-world projects
-🌐  Level up in Full-Stack Web Development  
+🌐  Level up in Full-Stack Web Development
 🧩  Contribute to Open Source
 🤝  Collaborate with awesome developers like YOU
 ```
@@ -113,6 +106,14 @@ me.say_hi()
 
 *⭐ Star my repos if you find them useful — it means the world!*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<br/>
+
+<!-- Snake animation (requires GitHub Actions setup — see note below) -->
+<img src="https://raw.githubusercontent.com/hadimaler710/hadimaler710/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
+<br/>
+
+<!-- Animated footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=65" width="100%"/>
 
 </div>
