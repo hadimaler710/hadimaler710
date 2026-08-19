@@ -45,7 +45,7 @@ learning : Python · Web Development · Problem Solving
 status   : 🟢 Actively building & growing
 fun_fact : "I am the mentor of your mentors ⚡"
 pronouns : He / Him
-contact  : hadimaler710@gmail.com
+contact  : hadimaler7@gmail.com
 ```
 
 > *Code is how I turn imagination into reality.*
