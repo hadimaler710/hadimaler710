@@ -145,7 +145,7 @@ contact  : hadimaler7@gmail.com
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Gmail-hadimaler710%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hadimaler710@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-hadimaler7%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hadimaler710@gmail.com)
 
 [![GitHub](https://img.shields.io/badge/GitHub-hadimaler710-A78BFA?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hadimaler710)
 
